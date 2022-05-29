@@ -1,0 +1,25 @@
+touchfile   creat file
+cat>file
+vim>file  vim  command modes gg  top kivelladaniki
+2gg rendu lineki
+shift+G end lineki velladaniki
+p single line print avvadaniki
+5p 5lines printing
+dd single line delet avvadaniki
+3dd 3lines
+u undo delet ainavatini thirigi thechukovadaniki
+/ word pettali appudu a word ni find chesthadh
+insert mode
+I starting line velladaniki
+A end of the line ki velladaniki
+a one charecter head avuthundhi
+o one new line 
+shift+o pina lin creat cheyyadaniki
+save and quit mode
+w save
+q quit
+:wq save and quite
+data modify cheyyadaniki vim mode use chestharu command vim file name
+head top 10lines printing
+tail down 10 lines printing
+sed middle 10lines
