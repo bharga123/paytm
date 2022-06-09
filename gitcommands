@@ -1,0 +1,51 @@
+my name is bhargav i was learning git thats why iam learning git commands
+*uname       = display which operating system using
+*uname -r    = display kernal version
+*uptime      = timings in project starting to ending
+host name    = host name display
+*hostname -i =  displays ip address
+*date       
+*cal
+*caldatectl
+*w          =displays users
+*tree
+*whoiam
+hardware
+
+*dmessages   = butak messages
+*cat/etc/cpuinfo = cpu information
+*cat/etc/memoinfo =memory info
+free -m     = memory avvailability in mb
+rm          = remove
+rm -rf      = remove forcefully
+ls          =list of files
+ls -al      = all files
+cd ~        = home directory
+cd ..       = display forward step
+touch       = creat file
+cat>file    = write data
+vim -file  = this is also modifying data
+git commands
+
+yum install git -y
+git init .
+git add
+git add * = adding all files
+git status
+git commit -m "chengs to entry" file
+git log   =git commits dispays
+git remote add origin url in git repo
+git push -u branch
+ll
+clear
+git config user.name "name"
+git config user.email "mail"
+git branch name
+git checkout branch name
+git branch -b branch name  =at time branch create avvadaniki
+git branch -d branch name at time branch delete avvadaniki
+git ignore       file track avvakunda undadaniki
+git rm --cached file name     file track avvakunda undadaniki
+git clone repo url
+git merge 
+git commit -m "all commands" git commands
